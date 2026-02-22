@@ -116,7 +116,7 @@ Dashboard que simula um **Sistema SaaS** com módulos integrados de negócios.
 
 Se quiser conversar sobre dados, BI ou oportunidades na área, fique à vontade para entrar em contato:
 
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/rodrigo-de-souza-almeida/) 
+- **LinkedIn:** [Rodrigo de Souza](https://www.linkedin.com/in/rodrigo-de-souza-almeida/) 
 - **E-mail:** rodrigosza81@gmail.com 
 
 ---
